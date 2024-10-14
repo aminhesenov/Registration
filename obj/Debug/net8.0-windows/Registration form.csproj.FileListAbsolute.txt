@@ -1,0 +1,17 @@
+D:\C# dersleri\Registration form\bin\Debug\net8.0-windows\Registration form.exe
+D:\C# dersleri\Registration form\bin\Debug\net8.0-windows\Registration form.deps.json
+D:\C# dersleri\Registration form\bin\Debug\net8.0-windows\Registration form.runtimeconfig.json
+D:\C# dersleri\Registration form\bin\Debug\net8.0-windows\Registration form.dll
+D:\C# dersleri\Registration form\bin\Debug\net8.0-windows\Registration form.pdb
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration_form.Form1.resources
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration_form.Form2.resources
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration form.csproj.GenerateResource.cache
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration form.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration form.AssemblyInfoInputs.cache
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration form.AssemblyInfo.cs
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration form.csproj.CoreCompileInputs.cache
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration form.dll
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\refint\Registration form.dll
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration form.pdb
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\Registration form.genruntimeconfig.cache
+D:\C# dersleri\Registration form\obj\Debug\net8.0-windows\ref\Registration form.dll
